@@ -19,4 +19,4 @@ AI-augmented development workflows.
 **Apps:** Unity · Blender · TouchDesigner  
 **Tech:** Python · C# · 3DGS · MediaPipe · OpenCV
 
-zilog80.com · [LinkedIn](https://www.linkedin.com/in/jeff-dobrow/)
+[zilog80.com](https://zilog80.com/) · [LinkedIn](https://www.linkedin.com/in/jeff-dobrow/)
